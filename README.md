@@ -96,9 +96,11 @@ anonymous-chat/
 └── static/
     └── style.css       # CSS styling for the app
 
-
-<img width="1919" height="1019" alt="Screenshot 2025-12-14 214259" src="https://github.com/user-attachments/assets/118b5d8f-53a1-47a7-a131-16e03f4e971d" />
-<img width="1919" height="1028" alt="Screenshot 2025-12-14 214247" src="https://github.com/user-attachments/assets/6a40ddf1-b2a4-4edc-8816-810ce098fb0b" />
-<img width="1915" height="939" alt="Screenshot 2025-12-14 214235" src="https://github.com/user-attachments/assets/a4c60b4e-0a9c-4bbb-aef0-7d7f20939da5" />
 <img width="1910" height="939" alt="Screenshot 2025-12-14 214223" src="https://github.com/user-attachments/assets/1cfa3ef5-7d67-4fc4-874e-a20401c2a005" />
+<img width="1915" height="939" alt="Screenshot 2025-12-14 214235" src="https://github.com/user-attachments/assets/a4c60b4e-0a9c-4bbb-aef0-7d7f20939da5" />
+<img width="1919" height="1028" alt="Screenshot 2025-12-14 214247" src="https://github.com/user-attachments/assets/6a40ddf1-b2a4-4edc-8816-810ce098fb0b" />
+<img width="1919" height="1019" alt="Screenshot 2025-12-14 214259" src="https://github.com/user-attachments/assets/118b5d8f-53a1-47a7-a131-16e03f4e971d" />
+
+
+
 
